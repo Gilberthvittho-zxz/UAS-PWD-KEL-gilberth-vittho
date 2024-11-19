@@ -9,7 +9,7 @@
     background-size: cover;
     background-position: center;
     overflow: hidden;
-    margin: 100px 0px 0px 200px;
+    margin: 100px 0px 0px 550px;
 }
 
 form {
@@ -59,4 +59,9 @@ input {
     box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
     color: white;
     cursor: pointer;
+}
+
+#submit:hover {
+    background-color: black;
+    color: white;
 }
